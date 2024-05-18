@@ -1,4 +1,6 @@
-California Housing Price Prediction
+California Housing Price Prediction:
+
+
 This project involves predicting California housing prices using various data preprocessing techniques and a linear regression model. The steps include loading the dataset, handling missing data, encoding categorical data, standardizing features, selecting features, and building and evaluating a linear regression model.
 
 
